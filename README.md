@@ -4,7 +4,7 @@
 This is a renamed fork of ps_googleanalytics 4.1.2, it allows you to keep feeding Universal Analytics with data.
 
 When you install it, it:
-- Makes their own database tables.
+- Makes it's own database tables.
 - Copies all data from the regular module.
 - Copies all settings from the regular module.
 - Disables the regular module.
